@@ -58,7 +58,7 @@ class BMIscore extends StatelessWidget {
             },
             shape: RoundedRectangleBorder(),
             backgroundColor: kBottomContainerCardColor,
-            child: Center(child: Text('Re-Calculate',style: TextStyle(color: Colors.white)),),
+            child: Center(child: Text('Re-Calculate the BMI',style: TextStyle(color: Colors.white)),),
           ),
         ),
         ),

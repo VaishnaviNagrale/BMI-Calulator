@@ -252,7 +252,7 @@ class _BMIappState extends State<BMIapp> {
           },
           shape: RoundedRectangleBorder(),
           backgroundColor: kBottomContainerCardColor,
-          child: Center(child: Text('Calculate',style: TextStyle(color: Colors.white)),),
+          child: Center(child: Text('Calculate Your BMI',style: TextStyle(color: Colors.white)),),
         ),
       ),
     );
